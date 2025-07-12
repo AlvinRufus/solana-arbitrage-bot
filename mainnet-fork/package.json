@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@orca-so/sdk": "^1.2.23",
+    "@orca-so/sdk": "^1.2.26",
     "@project-serum/borsh": "^0.2.5",
     "@solana/buffer-layout-utils": "^0.2.0",
     "@solana/spl-token": "^0.1.5",
